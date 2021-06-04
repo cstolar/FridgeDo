@@ -1,0 +1,1 @@
+{"version":3,"file":"todo.js","sourceRoot":"","sources":["../../models/todo.ts"],"names":[],"mappings":";;AAAA,uCAAoC;AAEpC,MAAM,MAAM,GAAG,mBAAQ,CAAC,MAAM,CAAC;AAE/B,MAAM,UAAU,GAAG,IAAI,MAAM,CAAC;IAC5B,QAAQ,EAAE,MAAM;CACjB,CAAC,CAAC;AAEH,MAAM,CAAC,OAAO,GAAG,mBAAQ,CAAC,KAAK,CAAC,YAAY,EAAE,gBAAgB,CAAA,CAAA"}
