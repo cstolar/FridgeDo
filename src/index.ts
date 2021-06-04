@@ -32,7 +32,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/todos", (req, res) => {
-  ToDo.find({ finished: "true" }, function (err, Todo) {
+  ToDo.find({ finished: "false" }, function (err, Todo) {
     if (err) {
       console.log(err);
     }
